@@ -1,13 +1,11 @@
 - 👋 Hi, I’m @Nkocie
-- 👀 I’m interested in programming with Java language.
-- 🌱 I’m currently learning or a Student at Tshwane University of Technology.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming with Java language and Python.
+- ✨ Full stack developer (Python- Django Framework and Java- Sring MVC and JEE) HTML, CSS & JS
+- 🌱 Ability in Machine learning, deep learning and AI.
+- ✨ Ability in Adriod Application development with Java and Kotlin
 - 📫 How to reach me: Email- Nkociempanza121@gmail.com 
                       Facebook- Nkocie Mpanza
                       Contact- 0825430069
-                      LinkIn:
+                      LinkIn: Nkosiyezwa Mpanza
 
-<!---
-Nkocie/Nkocie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
